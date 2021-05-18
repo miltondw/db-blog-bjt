@@ -1,695 +1,699 @@
 [
     {
-        "id": 1,
-        "title": "¿Qué es una bomba de vacío?",
-        "image": {
-            "src": "",
-            "alt": ""
-        },
-        "paragraph": [
+        "posts": [
             {
                 "id": 1,
-                "text": "Una bomba de vacío es un dispositivo mecánico diseñado para extraer fluidos (Gaseosos o líquidos) de un espacio a otro o las sustancias no deseadas de un proceso productivo. Este flujo genera una diferencia de presión medida en relación a la presión atmosférica o con referencia a un punto de trabajo concreto. Esto nos permite mantener presiones menores a la atmosférica en aplicaciones que lo requieren."
-            },
-            {
-                "id": 2,
-                "text": "No obstante de aparentar tener una gran complicidad, la verdad es que son muy simples en su construcción y su sistema de operación es muy sencillo. El funcionamiento de una bomba de vacío está caracterizado por su velocidad de bombeo y la cantidad de fluido evacuado por unidad de tiempo."
-            },
-            {
-                "id": 3,
-                "text": "El vacío se utiliza en una amplia gama de procesos de fabricación industrial, incluidos el envasado, el embotellado, el secado, la desgasificación, la recolección y la colocación, por nombrar solo algunos. Para generar, mejorar y mantener el vacío en estos procesos, se emplea una bomba de vacío industrial. "
-            },
-            {
-                "id": 4,
-                "text": "Conocer qué tipo de vacío es el más adecuado para usted y su aplicación, ya que existen diversos tipos de tecnologías de vacío disponibles, es fundamental comprender las características, los beneficios y el principio operativo de cada una de estos tipos de tecnología."
-            },
-            {
-                "id": 5,
-                "text": "Para entender la operatividad o funcionamiento de las bombas de vacío, primero es necesario conocer la definición de la palabra “vacío”:",
-                "items": [
+                "title": "¿Qué es una bomba de vacío?",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "paragraph": [
                     {
                         "id": 1,
-                        "item": "La Atmósfera ejerce sobre la Tierra una presión conocida como Presión Atmosférica y que podemos tomar como referencia para medir el nivel de vacío A nivel del mar, la presión atmosférica es de una Atmosfera (atm) que es igual a 76 cm de Hg y a 101.325 KPascales"
+                        "text": "Una bomba de vacío es un dispositivo mecánico diseñado para extraer fluidos (Gaseosos o líquidos) de un espacio a otro o las sustancias no deseadas de un proceso productivo. Este flujo genera una diferencia de presión medida en relación a la presión atmosférica o con referencia a un punto de trabajo concreto. Esto nos permite mantener presiones menores a la atmosférica en aplicaciones que lo requieren."
                     },
                     {
                         "id": 2,
-                        "item": "El término “vacío” se utiliza para describir un espacio que esté por debajo de la presión atmosférica y es un ambiente relativamente ausente de materia, ya que ha sido extraída."
+                        "text": "No obstante de aparentar tener una gran complicidad, la verdad es que son muy simples en su construcción y su sistema de operación es muy sencillo. El funcionamiento de una bomba de vacío está caracterizado por su velocidad de bombeo y la cantidad de fluido evacuado por unidad de tiempo."
                     },
                     {
                         "id": 3,
-                        "item": "Este espacio “vacío” o con ausencia de materia puede ser creado por medios artificiales y las bombas de vacío son el medio mayormente utilizado para crear vacío. Su función, básicamente es extraer aire, gas, moléculas o cualquier fluido de un espacio, envase u objeto."
-                    }
-                ]
-            }
-        ],
-        "subtitle": [
-            {
-                "title": "Uso y aplicaciones de la bomba de vacío",
-                "paragraph": "Aunque las bombas de vacío fueron inventadas en el año 1650 por Otto Von Guericke no existe duda que continua siendo una tecnología necesaria para la vida actual, y que en ocasiones sin darnos cuenta usamos productos o servicios que requieren de este tipo de tecnología. Las bombas de vacío pueden ser utilizadas en muchas industrias, por ejemplo:",
-                "items": [
-                    {
-                        "id": 1,
-                        "item": "Industria de los alimentos: Industria láctea, industria de refrescos, industria cervecera, empacado al vacío de productos alimenticios."
-                    },
-                    {
-                        "id": 2,
-                        "item": "Industria avícola"
-                    },
-                    {
-                        "id": 3,
-                        "item": "Industria farmacéutica y medicina"
+                        "text": "El vacío se utiliza en una amplia gama de procesos de fabricación industrial, incluidos el envasado, el embotellado, el secado, la desgasificación, la recolección y la colocación, por nombrar solo algunos. Para generar, mejorar y mantener el vacío en estos procesos, se emplea una bomba de vacío industrial. "
                     },
                     {
                         "id": 4,
-                        "item": "Industria química (Pinturas, pegamentos, plásticos)"
+                        "text": "Conocer qué tipo de vacío es el más adecuado para usted y su aplicación, ya que existen diversos tipos de tecnologías de vacío disponibles, es fundamental comprender las características, los beneficios y el principio operativo de cada una de estos tipos de tecnología."
                     },
                     {
                         "id": 5,
-                        "item": "Industria petrolera"
-                    },
-                    {
-                        "id": 6,
-                        "item": "Industria petroquímica"
-                    },
-                    {
-                        "id": 7,
-                        "item": "Industria automotriz"
-                    },
-                    {
-                        "id": 8,
-                        "item": "Industria metalmecánica"
-                    },
-                    {
-                        "id": 9,
-                        "item": "Industria de papelera"
-                    },
-                    {
-                        "id": 10,
-                        "item": "Industria maderera"
-                    },
-                    {
-                        "id": 11,
-                        "item": "Medio ambiente (Tratamiento de efluentes)"
-                    }
-                ]
-            }
-        ],
-        "type": "tecnico"
-    },
-    {
-        "id": 2,
-        "title": "Cuidados básicos para una bomba de vacío",
-        "image": {
-            "src": "",
-            "alt": ""
-        },
-        "paragraph": [
-            {
-                "id": 1,
-                "text": "En ese sentido, el mejor consejo para el mantenimiento de su bomba de vacío es establecer una frecuencia de inspección de la bomba que puede realizarse bimestralmente o anualmente según las características del servicio que esta está prestando. Esta inspección debe ser completa y debe incluir un chequeo minucioso de los distintos componentes o partes de la bomba."
-            },
-            {
-                "id": 2,
-                "text": "El funcionamiento correcto de una bomba de vacío está distinguido por su velocidad de bombeo, y la cantidad de gas expelido por unidad de tiempo. Toda bomba de vacío tiene una presión mínima de entrada, que es la presión más baja que puede obtenerse, y también, un límite superior a la salida o presión previa. Si la presión previa aumenta por encima de este valor, el bombeo cesa."
-            },
-            {
-                "id": 3,
-                "text": "En esta clase de bombas de vacío debe evitarse la condensación de vapores, en particular el vapor de agua, pues causaría la contaminación del aceite. Por este motivo, la mayoría de las bombas actuales están equipadas con la llamada válvula de lastre de gas o «gas ballast», que trabaja de la siguiente manera:"
-            },
-            {
-                "id": 4,
-                "text": "una vez comprimido el gas en el cuerpo de la bomba, se inyecta aire desde el exterior a través de la válvula de lastre, con lo cual la válvula que descarga a la atmósfera se abre antes, y reduce la relación de compresión para el vapor."
-            },
-            {
-                "id": 5,
-                "text": "Para el correcto funcionamiento de una bomba de vacío es necesario realizar periódicamente actividades de mantenimiento preventivo. La periodicidad de mantenimiento no es la misma para todas las bombas, sino que varía con las condiciones de uso de la misma, por ejemplo, una bomba que maneje líquidos limpios, no corrosivos, requiere mucho menos mantenimiento que una bomba del mismo tamaño o tipo que tenga que manejar líquidos corrosivos o arenisca. "
-            },
-            {
-                "id": 6,
-                "text": "El mantenimiento preventivo resulta beneficioso desde el punto de vista económico porque evita gastos innecesarios en el recambio de partes deterioradas producto de negligencia en su uso por falta de conocimiento del funcionamiento de la bomba."
-            },
-            {
-                "id": 7,
-                "text": "Lo mejor siempre será mantener una comunicación constante con el proveedor del equipo. Por ello los invitamos a visitar nuestro servicio en línea."
-            },
-            {
-                "id": 8,
-                "text": "Con el propósito de impulsar el trabajo de las empresas del sector agropecuario, surge la propuesta y los productos de INDUSTRIAS BJT C.A., empresa venezolana dedicada al diseño y elaboración de sistemas de ordeños mecánicos, así como a la manufactura de las bombas de vacío, que pueden ser acopladas a las instalaciones de ordeño, o bien, ser usadas en otros procesos como el empacado al vacío y en la refrigeración."
-            }
-        ],
-        "type": "tecnico"
-    },
-    {
-        "id": 3,
-        "title": "EL ordeño mecánico: que es, sus ventajas y desventajas",
-        "image": {
-            "src": "",
-            "alt": ""
-        },
-        "subtitle": [
-            {
-                "id": 1,
-                "title": "¿Qué es el ordeño mecánico?",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "El ordeño mecánico es una innovación tecnológica que revolucionó la actividad agropecuaria en el mundo y que surgió de la necesidad de incrementar la productividad en las explotaciones de ganado bovino lechero, abriendo el camino para un proceso de industrialización de la materia prima, la leche, que impulsaría a lo largo del tiempo, un proceso de masi-ficación y comercialización de sus derivados en el mercado global de alimentos, favoreciendo el alcance de estos productos lácteos a millones de personas en el mundo."
-                    },
-                    {
-                        "id": 2,
-                        "text": "Las primeras experiencias desarrolladas para la creación de las máquinas de ordeño se sucedieron simultáneamente en Inglaterra y los Estados Unidos de América a mediados del siglo XIX entre los años 1830 y 1860, cuando por primera vez se quiso optimizar el ordeño manual artesanal que milenariamente realizaba el campesino a través un sistema que permitiese generar un mayor rendimiento en el ordeño y en menos tiempo."
-                    },
-                    {
-                        "id": 3,
-                        "text": "Estas experiencias comenzaron con unas especies de tubitos hechos con los cañones de plumas de aves o las pajillas huecas de algunos cereales, que se introducían en el pezón de la ubre de la vaca para que fluyera la leche. Posteriormente también se quiso experimentar con unos rodillos fabricados de goma que de cierta manera exprimían el pezón. "
-                    },
-                    {
-                        "id": 4,
-                        "text": "Ambas experiencias producían maltratos y daños fisiológicos a la vaca. Observando las consecuencias de estos intentos, en 1851, Hodges y Brokedon en Inglaterra, introdujeron la idea de utilizar el concepto de vacío aplicado al ordeño creando así la primera máquina. Esta idea de aplicar el concepto de vacío luego sería mejorada por Colvin en los Estados Unidos de América en 1860, evolucionando hasta la actualidad, donde el ordeño mecánico ha alcanzado unos niveles de perfeccionamiento tecnológico llegando a la automatización total del proceso en un complejo sistema que tiene como referente un espacio llamado sala de ordeño rotativo."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "title": "¿Qué es el ordeño mecánico?",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "Podríamos afirmar con certeza que en el ordeño mecánico son más las ventajas que las desventajas. Para comenzar a enumerar las ventajas debemos comenzar por señalar que la principal es el aumento del rendimiento de producción de leche en el predio o explotación láctea donde se implementa el sistema de ordeño mecánico, sintetizando esta afirmación en la premisa de la reducción del tiempo de ordeño aumentando la productividad con mayor eficiencia. Otra de las ventajas está reflejada en la calidad del producto. "
-                    },
-                    {
-                        "id": 2,
-                        "text": "Los sistemas de ordeño mecánico ofrecen mayor seguridad para minimizar las posibilidades de contaminación de la leche ya que la ubre no se haya expuesta a los factores contaminantes del ambiente."
-                    },
-                    {
-                        "id": 3,
-                        "text": "Desde el punto de vista operacional ofrece beneficios para el trabajador ya que este se encuentra más cómodo para el ejercicio de su labor y para la empresa reduce la amenaza de ausentismo laboral. Finalmente, para la vaca o búfala ofrece la ventaja de reducir el estrés dándole la tranquilidad necesaria para ser ordeñada."
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "title": "¿Cuáles Son Sus Desventajas?",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "Para hablar de las desventajas primero debemos diferenciar si la explotación láctea esta orientada al autoconsumo o limitada al abastecimiento de pocos beneficiarios o por el contrario si está orientada a la comercialización de la leche. "
-                    },
-                    {
-                        "id": 2,
-                        "text": "En este sentido para el primero de los casos una desventaja podría ser el costo de inversión para adquirir el equipamiento limitando su acceso a los pequeños productores. Otra desventaja podría ser la falta de conocimiento en el manejo del equipo tanto para su uso como para su mantenimiento, lo que generaría daños en la salud del animal incrementando la posibilidad de la presencia de mastitis bovina en el ganado. "
-                    },
-                    {
-                        "id": 3,
-                        "text": "En Venezuela estas desventajas del ordeño mecánico se han ido minimizando gracias al aporte de empresas innovadoras en la fabricación y servicio en el ramo. Tal es el caso particular de Industrias BJT C.A"
-                    },
-                    {
-                        "id": 4,
-                        "text": "Ofrecemos soluciones a través de la variedad de los equipos que fabrica y el servicio técnico y de extensión de atención al productor. Uno de estos equipos fabricados por la empresa, entre otros, es los Sistemas de Ordeño Portátiles . "
-                    },
-                    {
-                        "id": 5,
-                        "text": "Estos sistemas ofrecen al pequeño y mediano productor la posibilidad de adquirir un equipo de calidad caracterizado por su versatilidad que se materializa en la posibilidad de tener un ordeñador mecánico con la capacidad de ser transportado fácilmente a predios con dificultades topográficas de acceso brindando también el bienestar de la vaca o búfala ya que esta minimiza largos recorridos pudiendo ser atendida. Por otro lado, la empresa ofrece al pequeño y mediano productor un servicio técnico completo para la gestión de los equipos de ordeños mecánicos que ofrecen."
-                    }
-                ]
-            }
-        ],
-        "type": "tecnico"
-    },
-    {
-        "id": 4,
-        "title": "Qué tipos de aceite llevan nuestras bombas de vacío",
-        "image": {
-            "src": "",
-            "alt": ""
-        },
-        "paragraph": [
-            {
-                "id": 1,
-                "text": "Del ciclo de cambio y sobre todo la calidad del aceite que utilicemos, dependerá la vida del equipo de ordeño. En nuestros modelos de bombas de vacío siempre recomendamos usar el aceite hidráulico ISO 68. También se puede usar un aceite de motor de combustión interna 10W30 en zonas frías y 15W40 en zonas calientes, pero SOLO en casos de emergencias. El recomendado es, como ya hemos mencionado, ISO 68."
-            }
-        ],
-        "subtitle": [
-            {
-                "id": 1,
-                "title": "¿Qué es un aceite hidráulico?",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "Aunque su nombre podría sugerir una relación estrecha con el agua, en realidad no es así; el aceite hidráulico es un fluido no compresible que se utiliza principalmente como transmisión de potencia dentro de máquinas y equipos hidráulicos."
-                    },
-                    {
-                        "id": 2,
-                        "text": "También se usa para la protección de los componentes hidráulicos y del sistema. Puede ser de base sintética o mineral."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "title": "¿Por qué usar un aceite hidráulico?",
-                "items": [
-                    {
-                        "id": 1,
-                        "item": "Diseñado para todos los requerimientos de los sistemas hidráulicos. Posee viscosidad constante, independientemente de la temperatura."
-                    },
-                    {
-                        "id": 2,
-                        "item": "Estabilidad térmica, por lo que promueve la limpieza del sistema y protege las partes metálicas de ataques corrosivos."
-                    },
-                    {
-                        "id": 3,
-                        "item": "Estabilidad hidrolítica, por lo que protege los metales amarillos de corrosión y ofrece resistencia a la descomposición por hidrólisis cuando el aceite es contaminado por agua. Baja compresibilidad, ya que deben soportar altas presiones."
-                    },
-                    {
-                        "id": 4,
-                        "item": "Anti-desgaste, por lo que ofrece protección al desgaste del sistema. Liberación de aire."
-                    },
-                    {
-                        "id": 5,
-                        "item": " Demulsibilidad, es decir, puede separarse del agua si se contamina con esta (los aceites de motor no lo realizan)."
-                    },
-                    {
-                        "id": 6,
-                        "item": " Puede filtrarse la humedad (algo que los aceites de motor generalmente no realizan). Propieibilidad con materiales selladores."
-                    },
-                    {
-                        "id": 7,
-                        "item": "Larga duración."
-                    },
-                    {
-                        "id": 8,
-                        "item": "Producto de relativo bajo costo"
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "title": "¿Qué significa ISO 68?",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "La numeración ISO (donde ISO es la Organización Internacional para la Normalización) de un aceite es su grado de viscosidad a 40ºC. Cuando mayor es el número de numeración, más viscoso es el fluido (ofrece más resistencia a fluir);"
-                    },
-                    {
-                        "id": 2,
-                        "text": "Este nos indica qué aceite hidráulico es más espeso. La normalización ISO se emplea para aceites de uso industrial. El aceite hidráulico ISO 68 está diseñado para su uso en sistemas que requieren una gran capacidad de carga. Su viscosidad a 40ºC es 68 cSt."
-                    }
-                ]
-            }
-        ],
-        "type": "tecnico"
-    },
-    {
-        "id": 5,
-        "title": "Mantenimiento de las bombas de vacío",
-        "image": {
-            "src": "",
-            "alt": ""
-        },
-        "paragraph": [
-            {
-                "id": 1,
-                "text": "En los equipos de ordeño, la bomba de vacío es un aparato de gran importancia, ya que se encarga de extraer el aire existente dentro del sistema, ayudando a crear una presión diferencial a través del canal de salida del pezón, que permite la succión de la leche. Asimismo, ayuda en la conducción de esta última a través de las tuberías y durante la fase de descanso, proporciona un masaje a la ubre."
-            }
-        ],
-        "subtitle": [
-            {
-                "id": 1,
-                "title": "¿Qué mantenimiento debo hacerle a mi bomba de vacío?",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "Una bomba de vacío que no funcione correctamente nos puede costar tiempo y mucho dinero. Por lo que se recomienda realizar actividades de mantenimiento preventivo regular para identificar algún tipo de deterioro o mal funcionamiento que podría afectar severamente la eficiencia del ordeño."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "title": "Haga que un técnico verifique la bomba",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "Cada seis meses, una persona calificada debe verificar la capacidad de la bomba de vacío para detectar desgastes, fugas o paros en el sistema."
-                    }
-                ],
-                "subitems": [
-                    {
-                        "id": 1,
-                        "title": "Diariamente",
-                        "texts": [
+                        "text": "Para entender la operatividad o funcionamiento de las bombas de vacío, primero es necesario conocer la definición de la palabra “vacío”:",
+                        "items": [
                             {
                                 "id": 1,
-                                "text": "Comprobar el nivel de aceite en el depósito de la bomba una vez a la semana Compruebe el nivel de aceite y añada más si está demasiado bajo o cámbielo si está turbio. Debe utilizar siempre el aceite adecuado, el que está recomendado por el fabricante y evite añadirlo en exceso, ya que la bomba puede sufrir daños. NUNCA se debe poner en marcha la máquina de ordeño sin aceite en la bomba."
-                            }
-                        ]
-                    },
-                    {
-                        "id": 2,
-                        "title": "Cada seis meses",
-                        "texts": [
-                            {
-                                "id": 1,
-                                "text": "Realizar la limpieza de la bomba de vacío cada seis meses La limpieza de la bomba, incluyendo el sistema de paletas es importante. Se puede utilizar aceite de limpieza o queroseno."
+                                "item": "La Atmósfera ejerce sobre la Tierra una presión conocida como Presión Atmosférica y que podemos tomar como referencia para medir el nivel de vacío A nivel del mar, la presión atmosférica es de una Atmosfera (atm) que es igual a 76 cm de Hg y a 101.325 KPascales"
                             },
                             {
                                 "id": 2,
-                                "text": "Se añaden alrededor de medio litro en el puerto de succión, mientras la bomba está funcionando. Si se requiere una limpieza extensa, se realiza este paso y se deja remojar. Después de limpiar la bomba, se agrega aceite a través del puerto de succión para asegurar una lubricación completa."
-                            }
-                        ]
-                    },
-                    {
-                        "id": 3,
-                        "title": "Anualmente",
-                        "texts": [
-                            {
-                                "id": 1,
-                                "text": "Reemplace las piezas que estén desgastadas o dañadas. Piezas como los ventiladores y correas deben ser monitoreadas regularmente, si observa desgaste o rotura, deben ser reemplazadas inmediatamente. Si tiene pensado no utilizar la bomba de vacío durante más de un mes, debe limpiar la bomba y añadir aceite nuevo. No olvide accionarla durante unos minutos, al menos una vez a la semana."
-                            },
-                            {
-                                "id": 2,
-                                "text": "En general, para garantizar un correcto funcionamiento de la bomba de vacío lo más importante es que bimestralmente o anualmente, dependiendo de las características del servicio que usted está prestando, se realice una inspección completa; esta debe incluir un chequeo muy minucioso a todos los distintos componentes de la bomba. Lo más recomendable es que sea un equipo técnico especializado en el área el que realice esta tarea."
+                                "item": "El término “vacío” se utiliza para describir un espacio que esté por debajo de la presión atmosférica y es un ambiente relativamente ausente de materia, ya que ha sido extraída."
                             },
                             {
                                 "id": 3,
-                                "text": "En Industrias BJT contamos con un equipo humano altamente especializado, dispuesto a ofrecerle la mejor asesoría y un servicio técnico de calidad y excelencia, haciendo uso de herramientas especializadas y de última tecnología. Además, contamos con repuestos y soluciones técnicas de avanzada para los problemas con su bomba de vacío o sus ordeños mecánicos en general."
-                            },
-                            {
-                                "id": 4,
-                                "text": "Si está interesado en nuestros servicios de mantenimiento y reparación de equipos, consulte con nuestro operador en línea o escriba un mensaje directo a nuestro departamento técnico y con gusto le atenderemos."
+                                "item": "Este espacio “vacío” o con ausencia de materia puede ser creado por medios artificiales y las bombas de vacío son el medio mayormente utilizado para crear vacío. Su función, básicamente es extraer aire, gas, moléculas o cualquier fluido de un espacio, envase u objeto."
                             }
                         ]
                     }
-                ]
-            }
-        ],
-        "type": "tenico"
-    },
-    {
-        "id": 6,
-        "title": "Razas de ganado vacuno utilizadas en Venezuela para la producción láctea",
-        "image": {
-            "src": "",
-            "alt": ""
-        },
-        "paragraph": [
-            {
-                "id": 1,
-                "text": "El sector ganadero en Venezuela constituye una importante fuente de alimentos, tanto en el sector cárnico como en el sector lácteo, contribuyendo de una manera significativa con la Soberanía Alimentaria del país."
+                ],
+                "subtitle": [
+                    {
+                        "title": "Uso y aplicaciones de la bomba de vacío",
+                        "paragraph": "Aunque las bombas de vacío fueron inventadas en el año 1650 por Otto Von Guericke no existe duda que continua siendo una tecnología necesaria para la vida actual, y que en ocasiones sin darnos cuenta usamos productos o servicios que requieren de este tipo de tecnología. Las bombas de vacío pueden ser utilizadas en muchas industrias, por ejemplo:",
+                        "items": [
+                            {
+                                "id": 1,
+                                "item": "Industria de los alimentos: Industria láctea, industria de refrescos, industria cervecera, empacado al vacío de productos alimenticios."
+                            },
+                            {
+                                "id": 2,
+                                "item": "Industria avícola"
+                            },
+                            {
+                                "id": 3,
+                                "item": "Industria farmacéutica y medicina"
+                            },
+                            {
+                                "id": 4,
+                                "item": "Industria química (Pinturas, pegamentos, plásticos)"
+                            },
+                            {
+                                "id": 5,
+                                "item": "Industria petrolera"
+                            },
+                            {
+                                "id": 6,
+                                "item": "Industria petroquímica"
+                            },
+                            {
+                                "id": 7,
+                                "item": "Industria automotriz"
+                            },
+                            {
+                                "id": 8,
+                                "item": "Industria metalmecánica"
+                            },
+                            {
+                                "id": 9,
+                                "item": "Industria de papelera"
+                            },
+                            {
+                                "id": 10,
+                                "item": "Industria maderera"
+                            },
+                            {
+                                "id": 11,
+                                "item": "Medio ambiente (Tratamiento de efluentes)"
+                            }
+                        ]
+                    }
+                ],
+                "type": "tecnico"
             },
             {
                 "id": 2,
-                "text": "La mayor actividad ganadera en Venezuela se desarrolla en los llanos, donde se ha establecido una zona de producción intensiva de carne y leche. En los últimos años, Venezuela ha importado ganado vacuno de Argentina, Brasil y Uruguay En Venezuela se utiliza para la ganadería de leche las siguientes razas: Criollo Limonero, Carora, Mosaico Perijanero, Pardo Suizo, Holstein y Jersey."
-            }
-        ],
-        "subtitle": [
-            {
-                "id": 1,
-                "title": "Raza Criollo Limonero",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "Raza Criollo Limonero denominada patrimonio nacional desde el año 1.978, La raza bovina Criollo Limonero es uno de los recursos genéticos más importantes de Venezuela, tiene su asentamiento principal en la Estación Local Carrasquero, adscrita al Instituto Nacional de Investigaciones Agrícolas (INIA), ubicado en el municipio Páez del estado Zulia y está orientada hacia la producción de leche principalmente."
-                    },
-                    {
-                        "id": 2,
-                        "text": "Su origen se remonta a la época de la colonia como un producto de los animales traídos por los españoles. Durante ese tiempo ha permanecido en interacción con las condicionestropicales por lo cual ha desarrollado gran rusticidad y adaptación que se combina con un gran potencial lechero, lo que le permite aventajar a otros genotipos, ya que pueden ser utilizados en programas de mejoramiento puros o cruzados, destinados a la producción de leche o en explotaciones de doble propósito."
-                    },
-                    {
-                        "id": 3,
-                        "text": "En Venezuela la región del Criollo Limonero está ubicada al noroeste del estado Zulia, en las riberas de los ríos Socuy, Guasare y Limón, abarca los municipios Mara y Páez principalmente. La zona es una región de bosque seco tropical con temperatura media anual de 27,8 ºC y unos 780 mm de precipitación anual, en donde a través del tiempo, los ganaderos fueron seleccionando un tipo de animal con características lácteas."
-                    }
-                ],
+                "title": "Cuidados básicos para una bomba de vacío",
                 "image": {
-                    "alt": "",
-                    "src": ""
-                }
-            },
-            {
-                "id": 2,
-                "title": "Raza Carora",
-                "texts": [
+                    "src": "",
+                    "alt": ""
+                },
+                "paragraph": [
                     {
                         "id": 1,
-                        "text": "Como su nombre lo indica esta raza es originaria de Carora, Estado Lara, ubicada en una zona ecológica clasificada como Bosque Seco Tropical ( Holdrige) producto del cruce del Criollo Amarillo de Quebrada Arriba de alta capacidad de adaptación al trópico y con buena producción de leche y del Pardo Suizo."
+                        "text": "En ese sentido, el mejor consejo para el mantenimiento de su bomba de vacío es establecer una frecuencia de inspección de la bomba que puede realizarse bimestralmente o anualmente según las características del servicio que esta está prestando. Esta inspección debe ser completa y debe incluir un chequeo minucioso de los distintos componentes o partes de la bomba."
                     },
                     {
                         "id": 2,
-                        "text": "De alta rusticidad, mansedumbre, fortaleza, vigor, buena reproducción, capacidad de soportar el clima y aprovechar los forrajes tropicales. La Asociación de Criadores (ASOCRICA) y el Centro Genético (CIAC); implementan el Programa de Mejoramiento Genético de la Raza Carora (PMG) para consolidarla como una “raza láctea tropical”."
+                        "text": "El funcionamiento correcto de una bomba de vacío está distinguido por su velocidad de bombeo, y la cantidad de gas expelido por unidad de tiempo. Toda bomba de vacío tiene una presión mínima de entrada, que es la presión más baja que puede obtenerse, y también, un límite superior a la salida o presión previa. Si la presión previa aumenta por encima de este valor, el bombeo cesa."
                     },
                     {
                         "id": 3,
-                        "text": " El resultado de la selección natural generó un animal de producciones promedios de 6-7 litros por día con lactancias de 210-240 días de duración. La raza Carora posee una serie de ca racterísticas fenotípicas que lo diferencian e identifican de cualquier otra raza láctea del mundo y que al mismo tiempo revelan su grado de adaptación a los climas tropicales."
-                    }
-                ],
-                "image": {
-                    "alt": "",
-                    "src": ""
-                }
-            },
-            {
-                "id": 3,
-                "title": "Raza Mosaico Perijanero",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "El ganado Mosaico Perijanero, como su nombre lo indica, es originario del Municipio Perijá del Estado Zulia, es un ganado de doble propósito, adaptado a las rigurosidades climáticas tropicales y a sistemas rústicos de manejo y alimentación. Las condiciones climáticas predominantes en este ecosistema son típicas del “Bosque Seco Tropical”, con una media anual de temperatura de 27°C y precipitaciones que oscilan entre 900 y 1.200 mm."
-                    },
-                    {
-                        "id": 2,
-                        "text": " El Mosaico Perijanero no es reconocido a nivel mundial como raza, por no cumplir con los estándares internacionales para tal reconcomiendo. Cómo se originó En principio de los productores perijaneros explotaban el ganado Criollo, el cual se destaca por su temperamento lechero, alta eficiencia reproductiva y resistencia al medio ambiente tropical. El ganado criollo fue cruzado con ganado europeo (Holstein, Pardo Suizo, Guernsey, Airshyre, etc.) buscando aumentar la productividad de leche."
-                    },
-                    {
-                        "id": 3,
-                        "text": " Presentándose el inconveniente de la falta de adaptación de las razas especializadas a los sistemas rústicos de manejo y alimentación predominantes en la zona. Para solucionar estos problemas, los productores cruzaron los mestizos con razas cebuínas buscando mejorar su adaptación, obteniendo un animal con alto valor para la producción de carne; no obstante, se obtuvo un efecto depresivo sobre la producción de leche. "
+                        "text": "En esta clase de bombas de vacío debe evitarse la condensación de vapores, en particular el vapor de agua, pues causaría la contaminación del aceite. Por este motivo, la mayoría de las bombas actuales están equipadas con la llamada válvula de lastre de gas o «gas ballast», que trabaja de la siguiente manera:"
                     },
                     {
                         "id": 4,
-                        "text": "El ganado “mosaico perijanero”, ha sido sin lugar a duda la mezcla de razas bovinas que en sus mejores tiempos logró alcanzar el 40% de la producción láctea para todo el país, así como gran parte de los productos cárnicos que se consumían en sus distintas presentaciones, con calidad de exportación y el sello “Hecho en Venezuela”"
-                    }
-                ],
-                "image": {
-                    "alt": "",
-                    "src": ""
-                }
-            },
-            {
-                "id": 4,
-                "title": "Raza Pardo Suizo",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "El origen de esta raza es la parte oriental de Suiza y es notable por su fortaleza siendo la segunda raza por su rendimiento lechero después de Holstein. En Suiza compite con la Simental en el suministro de leche y carne para el pequeño mercado interno. Como se desarrollaba en forma rústica, su talla no se vio incrementada hasta que se mezcló con ganado alemán de talla grande, aunque se desconocen los niveles de cruzamiento y los cambios del tipo original. "
-                    },
-                    {
-                        "id": 2,
-                        "text": "Su mansedumbre propició su uso de triple propósito en carne, leche y tracción. Los animales adultos son fuertes y de buen peso, las vacas pueden pesar de 600 a 700 kg y los toros de 950 a 1,000 kg, pero en ambos casos hay ejemplares con más peso. En relación a su rendimiento lechero, la raza suiza lo hace muy bien, ya que es la segunda del mundo en este rubro. El promedio de la raza son los correspondientes a los EE. UU, que a los 6 años de edad es de 6,779 kg de leche de alta calidad con 4.5% de grasa y 3.5% de proteína, especial para la producción de quesos y propiciando el origen de los quesos Suizos, siendo la raza quesera por excelencia. "
-                    },
-                    {
-                        "id": 3,
-                        "text": "La raza Pardo Suizo se caracteriza por su talla mediana; la capa es de un sólo color café-gris, encontrándose animales de tonalidades claras. Los cuartos traseros son carnosos. La ubre está bien desarrollada, con buenos pezones. Se llega a ver casos de vacas en producción con más de 15 años de edad. Muy buen porcentaje de preñez. "
-                    },
-                    {
-                        "id": 4,
-                        "text": "Partos fáciles. Pezuñas duras; por esta aptitud hay menos problemas con pisos de cemento, son animales rústicos, no son propensas a la sarna, resisten picaduras de moscas, mosquitos y garrapatas. Se utiliza mucho en zonas tropicales, donde otras razas no resisten el clima y pastan cuando otras razas, por el calor, están a la sombra."
-                    }
-                ],
-                "image": {
-                    "alt": "",
-                    "src": ""
-                }
-            },
-            {
-                "id": 5,
-                "title": "Raza Holstein",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "Origen de la raza La Raza de ganado Holstein se originó en dos provincias septentrionales de Holanda: Frisia Occidental y País Bajo del Norte (North Holland). Poco se sabe de su más remoto origen, pero no hay duda de que fue Holanda el núcleo del cual se diseminó esta raza que, sin objeciones, es la más formidable láctea de la historia. "
-                    },
-                    {
-                        "id": 2,
-                        "text": "Características La Raza bovina Holstein es la más pesada y productiva de las razas lácteas, presenta dos variantes en cuanto a color de pelaje: el blanco con negro y el blanco con rojo. La variante dominante es en negro, siendo de carácter recesivo la variante en rojo. Dentro de la variante en negro se encuentran animales muy negros con algunas manchas blancas o animales casi blancos con pintas negras, no hay animales enteramente blancos ni enteramente negros. "
-                    },
-                    {
-                        "id": 3,
-                        "text": "Al nacer, los becerros pesan entre 38 y 42 kg; las becerras entre 34 y 38 kg. Los cuernos están siempre presentes, de cuerpo profundo, angulosos, sin tendencia a la gordura o bastedad corporal, amplio. Cuello largo descarnado, bien implantado. Ubre de gran capacidad y buena forma, fuertemente adherida; pezones medianos y colocación en cuadro y muy bien irrigada. Los machos sometidos a engorde están en condición y peso optima a los 11-12 meses pesando entre 272 Kg y 320 Kg. "
-                    },
-                    {
-                        "id": 4,
-                        "text": "Características funcionales del ganado lechero Holstein El promedio de producción de leche en EE.UU a edad adulta, se estima en 11,313 kg por lactación. Al primer parto, la vaquilla de 24 meses debe pesar como mínimo 520 Kg para considerarla con buen desarrollo corporal en dicho momento.Los machos sometidos a engorde están en condición y peso optimo a los 11-12 meses pesando entre 272 Kg y 320Kg."
-                    }
-                ],
-                "image": {
-                    "alt": "",
-                    "src": ""
-                }
-            },
-            {
-                "id": 6,
-                "title": "Raza Jersey",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "Se originó en las Islas Jersey en el Canal de La Mancha. y fue registrada por primera vez como una raza distinta hacia 1700. Desde 1789, una ley prohibió la importación de ganado a Jersey con la finalidad de mantener la pureza de la raza, aunque la exporta. "
-                    },
-                    {
-                        "id": 2,
-                        "text": "El color es una gradación del amarillo con o sin machas blancas, es la más pequeñas de la razas lácteas. La ubre es desarrollada y bien conformada, los cuernos son cortos con puntas negras Miembros delgados con pesuñas oscuras. Es una vaca de doble propósito."
-                    },
-                    {
-                        "id": 3,
-                        "text": "El ganado Jersey es relativamente pequeño, pesando las vacas entre 360 a 540 kg, pero es capaz de producir más leche por unidad de peso corporal que cualquier otra raza y tiene la eficiencia más alta de conversión de alimento ingerido a leche de todas las razas lácteas; los toros son también pequeños, pesando entre 540 a 820 kg, y son muy agresivos, lo que dificulta su manejo en confinamiento."
-                    },
-                    {
-                        "id": 4,
-                        "text": " La vaca Jersey es la que, con mayor frecuencia se adapta al tipo lechero ideal. Su silueta, su angulosidad y la perfección de sus líneas responden a las características de una eficiente transformadora de alimento en leche. Es la de mayor producción de grasa y sólidos no grasos en la leche, la grasa láctea es de color amarillo."
-                    }
-                ],
-                "image": {
-                    "alt": "",
-                    "src": ""
-                }
-            }
-        ],
-        "type": "animal"
-    },
-    {
-        "id": 7,
-        "title": "¿Cuál es el período de gestación de una vaca?",
-        "image": {
-            "src": "",
-            "alt": ""
-        },
-        "paragraph": [
-            {
-                "id": 1,
-                "text": "La madurez sexual del ganado vacuno es variable, dependiendo de factores como la raza y el peso del ejemplar en su etapa de madurez. El período de gestación de una vaca es variable, como media se toma de nueve meses, aunque el rango más específico comprende entre 276 y 283 días de gestación. Pero por lo general a partir de los 282 días hay que estar atentos ante cualquier comportamiento inusual en la vaca."
-            },
-            {
-                "id": 2,
-                "text": "También puede influir el tamaño del ternero que se ha gestado durante el embarazo. En numerosas razas de vacas lecheras puede alcanzar la pubertad al llegar al año de vida, mientras que otras razas deben esperar a los 24 meses para poder criar. En cuanto al peso del ejemplar este debe aproximarse a la mitad del peso que alcanzan en su adultez, para que sea capaz realizar la reproducción."
-            }
-        ],
-        "type": "animal"
-    },
-    {
-        "id": 8,
-        "title": "¿Desde qué edad comienza a preñar un toro?",
-        "image": {
-            "src": "",
-            "alt": ""
-        },
-        "paragraph": [
-            {
-                "id": 1,
-                "text": "La fertilidad de los toros se inicia cuando pueden producir esperma viable, esto ocurre aproximadamente a los 12 meses de edad, aunque puede variar en toros individuales varios meses antes o después dependiendo principalmente del tamaño, el peso potencial, la nutrición y el estado de salud. A partir de los 18 meses se los puede emplear en vacas pequeñas, ya que por su edad tienen dificultades para el servicio debido al tamaño."
-            },
-            {
-                "id": 2,
-                "text": "Un patrón habitualmente adoptado es emplear toros de un año que tengan una circunferencia escrotal mínima de 32 cm, pero la mayoría de los toros han alcanzado la fertilidad cuando la circunferencia escrotal mide aproximadamente 26 cm. "
-            },
-            {
-                "id": 3,
-                "text": "Algunos ejemplares logran permanecer en servicio hasta los diez o doce años, pero esto no es la regla, depende de los cuidados que ha recibido, la dieta aplicada, la cantidad de vientres servidos, el carácter del animal y lesiones adquiridas durante el trabajo, lo que se refleja en el examen de aptitud reproductiva anual."
-            },
-            {
-                "id": 4,
-                "text": "Por lo general permanecen en el rebaño de 4 a 5 años, ya que la fertilidad tiende a disminuir después de los 6 años. Si el semental es de buena calidad y habiendo sido declarado apto en el examen de aptitud reproductiva, no debe ser reemplazado hasta los 6 años de edad para no desperdiciar su genética mejoradora."
-            },
-            {
-                "id": 5,
-                "text": "El único motivo para que un animal permanezca en el rebaño es que sus pruebas de producción indiquen que es un animal destacado, que amerita siga dejando descendencia, ya que la nueva generación deberá ser genéticamente superior a la anterior."
-            },
-            {
-                "id": 6,
-                "text": "Independientemente de la edad de las hembras, cuando se emplean toros jóvenes se logra una mayor fertilidad del rebaño, por lo tanto, es conveniente en una finca evitar emplear toros de más de 6 años de edad."
-            }
-        ],
-        "type": "animal"
-    },
-    {
-        "id": 9,
-        "title": "Mastitis bovina ¿Qué es y cómo evitarla?",
-        "image": {
-            "src": "",
-            "alt": ""
-        },
-        "paragraph": [
-            {
-                "id": 1,
-                "text": "La Mastitis bovina es una enfermedad que es considerada como el principal problema de salud en las granjas de producción láctea, puede conllevar a una lamentable pérdida económica debido a la disminución en la calidad y cantidad de la leche."
-            },
-            {
-                "id": 2,
-                "text": "La mastitis bovina es una patología muy común en el ganado productor de leche(vacas y búfalas) que afecta su rendimiento, no solo por lo que significa la disminución en el volumen de litros producidos por la vaca afectada, sino por los altos costos que representa el tratamiento veterinario de este padecimiento. "
-            },
-            {
-                "id": 3,
-                "text": "Es una enfermedad que ataca la ubre produciendo su inflamación, la mayoría de las veces como consecuencia de infecciones causadas por distintos microorganismos, especialmente bacterias como el Streptococcus."
-            },
-            {
-                "id": 4,
-                "text": "Esta inflamación se desarrolla debido a la existencia de leucocitos los cuales son transportados hacia la ubre por la presencia de bacterias en el canal del pezón."
-            },
-            {
-                "id": 5,
-                "text": "Una vez infiltradas en el canal, las bacterias se multiplican en número y producen toxinas que causan la destrucción del tejido mamario, cambiando la composición química de la leche, disminuyendo de esta manera el potencial productivo de la ubre."
-            },
-            {
-                "id": 6,
-                "text": "La mastitis también puede ser causada por hongos o micoplasmas que se encuentran en el ambiente más cercano a la vaca. Las fuentes principales de contaminación son, la ubre infectada y el entorno, como las manos de ordeñadores, pezoneras, paños de lavado y secado."
-            }
-        ],
-        "subtitle": [
-            {
-                "id": 1,
-                "title": "Tipos de Mastitis",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "El grado de inflamación de la ubre es cambiante, dependiendo de la gravedad con que la glándula mamaria reacciona frente a la fuente de su irritación. De acuerdo a los síntomas, existe una clasificación para la mastitis, ésta puede ser clínica, subclínica y aguda."
-                    },
-                    {
-                        "id": 2,
-                        "text": "En la mastitis clínica se observa la inflamación a nivel de la glándula mamaria produciendo cambios en las características organolépticas, físicas, químicas y microbiológicas de la leche, siendo los síntomas: anormalidades en la secreción, tamaño, consistencia y temperatura de las glándulas mamarias; la mastitis subclínica no presenta síntomas inflamatorios, debe detectarse a través de pruebas indirectas basadas en el recuento de células somáticas. "
-                    },
-                    {
-                        "id": 3,
-                        "text": "la mastitis aguda es la que pone en riesgo la vida del animal. Es importante considerar que se trata de una enfermedad multicausal en la que intervienen los tres elementos que conforman el triángulo epidemiológico de la mastitis, los cuales vienen a ser: las características de la ubre, las condiciones del ambiente que rodean el ganado y la variedad de patógenos que producen la enfermedad."
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "title": "Medidas para evitar la Mastitis bovina",
-                "texts": [
-                    {
-                        "id": 1,
-                        "text": "Es importante tomar en consideración las medidas preventivas que eviten la aparición de la mastitis en el ganado, una de ellas es la garantía del control higiénico del ambiente que rodea la ubre y en términos generales, del hato en su totalidad, que conduzca además hacia un sistema que asegure la calidad del producto y del bienestar animal. "
-                    },
-                    {
-                        "id": 2,
-                        "text": "Hacer énfasis en la ejecución de una buena práctica de ordeño es primordial, siempre buscando mantener la salud del pezón en equilibrio armónico con la velocidad de ordeño. Otras medidas preventivas a considerar son las siguientes: desinfectar los pezones antes y después del ordeño, mantener en buen estado los equipos de ordeño, aplicar tratamiento de secado, garantizar una buena ventilación, proveer a las vacas de una excelente alimentación y agua, mantener a las vacas luego del ordeño un tiempo de pie. "
-                    },
-                    {
-                        "id": 3,
-                        "text": "El ordeño, más allá de ser el vínculo que materializa la relación ancestral entre la vaca y la humanidad, se ha convertido en nuestros tiempos en la acción que inicia todo un proceso de transformación económica, en virtud del apoyo que por fortuna brinda los avances en el área de tecnología agropecuaria y que impulsan el desarrollo de esta industria básica tan fundamental para el aparato productivo de un país."
-                    },
-                    {
-                        "id": 4,
-                        "text": "Sin duda alguna, la mastitis bovina plantea un reto que el productor tiene que asumir con mucha responsabilidad y planificación en cuanto a las condiciones de higiene en el acto del ordeño, independientemente si éste es artesanal, manual o industrial mecanizado."
+                        "text": "una vez comprimido el gas en el cuerpo de la bomba, se inyecta aire desde el exterior a través de la válvula de lastre, con lo cual la válvula que descarga a la atmósfera se abre antes, y reduce la relación de compresión para el vapor."
                     },
                     {
                         "id": 5,
-                        "text": "Para ello, el productor debe considerar como aspectos fundamentales cuáles son las condiciones ambientales más apropiadas que integran el espacio del hábitat de la vaca y las tecnologías de ordeño más ajustadas por sus características de manufactura a los requerimientos del medio, dicha tecnología tal como la necesita es fabricada por INDUSTRIAS BJT."
+                        "text": "Para el correcto funcionamiento de una bomba de vacío es necesario realizar periódicamente actividades de mantenimiento preventivo. La periodicidad de mantenimiento no es la misma para todas las bombas, sino que varía con las condiciones de uso de la misma, por ejemplo, una bomba que maneje líquidos limpios, no corrosivos, requiere mucho menos mantenimiento que una bomba del mismo tamaño o tipo que tenga que manejar líquidos corrosivos o arenisca. "
                     },
                     {
                         "id": 6,
-                        "text": " Empresa venezolana dedicada al diseño y elaboración de ordeños mecánicos de la mejor calidad con los que se asegura el cumplimiento de los estándares sanitarios tan solicitados para proteger el ganado y su producción. Le invitamos a visitar nuestro catálogo de productos. INDUSTRIAS BJT, siempre respaldando el sector agropecuario."
+                        "text": "El mantenimiento preventivo resulta beneficioso desde el punto de vista económico porque evita gastos innecesarios en el recambio de partes deterioradas producto de negligencia en su uso por falta de conocimiento del funcionamiento de la bomba."
+                    },
+                    {
+                        "id": 7,
+                        "text": "Lo mejor siempre será mantener una comunicación constante con el proveedor del equipo. Por ello los invitamos a visitar nuestro servicio en línea."
+                    },
+                    {
+                        "id": 8,
+                        "text": "Con el propósito de impulsar el trabajo de las empresas del sector agropecuario, surge la propuesta y los productos de INDUSTRIAS BJT C.A., empresa venezolana dedicada al diseño y elaboración de sistemas de ordeños mecánicos, así como a la manufactura de las bombas de vacío, que pueden ser acopladas a las instalaciones de ordeño, o bien, ser usadas en otros procesos como el empacado al vacío y en la refrigeración."
                     }
-                ]
+                ],
+                "type": "tecnico"
+            },
+            {
+                "id": 3,
+                "title": "EL ordeño mecánico: que es, sus ventajas y desventajas",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "subtitle": [
+                    {
+                        "id": 1,
+                        "title": "¿Qué es el ordeño mecánico?",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "El ordeño mecánico es una innovación tecnológica que revolucionó la actividad agropecuaria en el mundo y que surgió de la necesidad de incrementar la productividad en las explotaciones de ganado bovino lechero, abriendo el camino para un proceso de industrialización de la materia prima, la leche, que impulsaría a lo largo del tiempo, un proceso de masi-ficación y comercialización de sus derivados en el mercado global de alimentos, favoreciendo el alcance de estos productos lácteos a millones de personas en el mundo."
+                            },
+                            {
+                                "id": 2,
+                                "text": "Las primeras experiencias desarrolladas para la creación de las máquinas de ordeño se sucedieron simultáneamente en Inglaterra y los Estados Unidos de América a mediados del siglo XIX entre los años 1830 y 1860, cuando por primera vez se quiso optimizar el ordeño manual artesanal que milenariamente realizaba el campesino a través un sistema que permitiese generar un mayor rendimiento en el ordeño y en menos tiempo."
+                            },
+                            {
+                                "id": 3,
+                                "text": "Estas experiencias comenzaron con unas especies de tubitos hechos con los cañones de plumas de aves o las pajillas huecas de algunos cereales, que se introducían en el pezón de la ubre de la vaca para que fluyera la leche. Posteriormente también se quiso experimentar con unos rodillos fabricados de goma que de cierta manera exprimían el pezón. "
+                            },
+                            {
+                                "id": 4,
+                                "text": "Ambas experiencias producían maltratos y daños fisiológicos a la vaca. Observando las consecuencias de estos intentos, en 1851, Hodges y Brokedon en Inglaterra, introdujeron la idea de utilizar el concepto de vacío aplicado al ordeño creando así la primera máquina. Esta idea de aplicar el concepto de vacío luego sería mejorada por Colvin en los Estados Unidos de América en 1860, evolucionando hasta la actualidad, donde el ordeño mecánico ha alcanzado unos niveles de perfeccionamiento tecnológico llegando a la automatización total del proceso en un complejo sistema que tiene como referente un espacio llamado sala de ordeño rotativo."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "title": "¿Qué es el ordeño mecánico?",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "Podríamos afirmar con certeza que en el ordeño mecánico son más las ventajas que las desventajas. Para comenzar a enumerar las ventajas debemos comenzar por señalar que la principal es el aumento del rendimiento de producción de leche en el predio o explotación láctea donde se implementa el sistema de ordeño mecánico, sintetizando esta afirmación en la premisa de la reducción del tiempo de ordeño aumentando la productividad con mayor eficiencia. Otra de las ventajas está reflejada en la calidad del producto. "
+                            },
+                            {
+                                "id": 2,
+                                "text": "Los sistemas de ordeño mecánico ofrecen mayor seguridad para minimizar las posibilidades de contaminación de la leche ya que la ubre no se haya expuesta a los factores contaminantes del ambiente."
+                            },
+                            {
+                                "id": 3,
+                                "text": "Desde el punto de vista operacional ofrece beneficios para el trabajador ya que este se encuentra más cómodo para el ejercicio de su labor y para la empresa reduce la amenaza de ausentismo laboral. Finalmente, para la vaca o búfala ofrece la ventaja de reducir el estrés dándole la tranquilidad necesaria para ser ordeñada."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "title": "¿Cuáles Son Sus Desventajas?",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "Para hablar de las desventajas primero debemos diferenciar si la explotación láctea esta orientada al autoconsumo o limitada al abastecimiento de pocos beneficiarios o por el contrario si está orientada a la comercialización de la leche. "
+                            },
+                            {
+                                "id": 2,
+                                "text": "En este sentido para el primero de los casos una desventaja podría ser el costo de inversión para adquirir el equipamiento limitando su acceso a los pequeños productores. Otra desventaja podría ser la falta de conocimiento en el manejo del equipo tanto para su uso como para su mantenimiento, lo que generaría daños en la salud del animal incrementando la posibilidad de la presencia de mastitis bovina en el ganado. "
+                            },
+                            {
+                                "id": 3,
+                                "text": "En Venezuela estas desventajas del ordeño mecánico se han ido minimizando gracias al aporte de empresas innovadoras en la fabricación y servicio en el ramo. Tal es el caso particular de Industrias BJT C.A"
+                            },
+                            {
+                                "id": 4,
+                                "text": "Ofrecemos soluciones a través de la variedad de los equipos que fabrica y el servicio técnico y de extensión de atención al productor. Uno de estos equipos fabricados por la empresa, entre otros, es los Sistemas de Ordeño Portátiles . "
+                            },
+                            {
+                                "id": 5,
+                                "text": "Estos sistemas ofrecen al pequeño y mediano productor la posibilidad de adquirir un equipo de calidad caracterizado por su versatilidad que se materializa en la posibilidad de tener un ordeñador mecánico con la capacidad de ser transportado fácilmente a predios con dificultades topográficas de acceso brindando también el bienestar de la vaca o búfala ya que esta minimiza largos recorridos pudiendo ser atendida. Por otro lado, la empresa ofrece al pequeño y mediano productor un servicio técnico completo para la gestión de los equipos de ordeños mecánicos que ofrecen."
+                            }
+                        ]
+                    }
+                ],
+                "type": "tecnico"
+            },
+            {
+                "id": 4,
+                "title": "Qué tipos de aceite llevan nuestras bombas de vacío",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "paragraph": [
+                    {
+                        "id": 1,
+                        "text": "Del ciclo de cambio y sobre todo la calidad del aceite que utilicemos, dependerá la vida del equipo de ordeño. En nuestros modelos de bombas de vacío siempre recomendamos usar el aceite hidráulico ISO 68. También se puede usar un aceite de motor de combustión interna 10W30 en zonas frías y 15W40 en zonas calientes, pero SOLO en casos de emergencias. El recomendado es, como ya hemos mencionado, ISO 68."
+                    }
+                ],
+                "subtitle": [
+                    {
+                        "id": 1,
+                        "title": "¿Qué es un aceite hidráulico?",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "Aunque su nombre podría sugerir una relación estrecha con el agua, en realidad no es así; el aceite hidráulico es un fluido no compresible que se utiliza principalmente como transmisión de potencia dentro de máquinas y equipos hidráulicos."
+                            },
+                            {
+                                "id": 2,
+                                "text": "También se usa para la protección de los componentes hidráulicos y del sistema. Puede ser de base sintética o mineral."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "title": "¿Por qué usar un aceite hidráulico?",
+                        "items": [
+                            {
+                                "id": 1,
+                                "item": "Diseñado para todos los requerimientos de los sistemas hidráulicos. Posee viscosidad constante, independientemente de la temperatura."
+                            },
+                            {
+                                "id": 2,
+                                "item": "Estabilidad térmica, por lo que promueve la limpieza del sistema y protege las partes metálicas de ataques corrosivos."
+                            },
+                            {
+                                "id": 3,
+                                "item": "Estabilidad hidrolítica, por lo que protege los metales amarillos de corrosión y ofrece resistencia a la descomposición por hidrólisis cuando el aceite es contaminado por agua. Baja compresibilidad, ya que deben soportar altas presiones."
+                            },
+                            {
+                                "id": 4,
+                                "item": "Anti-desgaste, por lo que ofrece protección al desgaste del sistema. Liberación de aire."
+                            },
+                            {
+                                "id": 5,
+                                "item": " Demulsibilidad, es decir, puede separarse del agua si se contamina con esta (los aceites de motor no lo realizan)."
+                            },
+                            {
+                                "id": 6,
+                                "item": " Puede filtrarse la humedad (algo que los aceites de motor generalmente no realizan). Propieibilidad con materiales selladores."
+                            },
+                            {
+                                "id": 7,
+                                "item": "Larga duración."
+                            },
+                            {
+                                "id": 8,
+                                "item": "Producto de relativo bajo costo"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "title": "¿Qué significa ISO 68?",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "La numeración ISO (donde ISO es la Organización Internacional para la Normalización) de un aceite es su grado de viscosidad a 40ºC. Cuando mayor es el número de numeración, más viscoso es el fluido (ofrece más resistencia a fluir);"
+                            },
+                            {
+                                "id": 2,
+                                "text": "Este nos indica qué aceite hidráulico es más espeso. La normalización ISO se emplea para aceites de uso industrial. El aceite hidráulico ISO 68 está diseñado para su uso en sistemas que requieren una gran capacidad de carga. Su viscosidad a 40ºC es 68 cSt."
+                            }
+                        ]
+                    }
+                ],
+                "type": "tecnico"
+            },
+            {
+                "id": 5,
+                "title": "Mantenimiento de las bombas de vacío",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "paragraph": [
+                    {
+                        "id": 1,
+                        "text": "En los equipos de ordeño, la bomba de vacío es un aparato de gran importancia, ya que se encarga de extraer el aire existente dentro del sistema, ayudando a crear una presión diferencial a través del canal de salida del pezón, que permite la succión de la leche. Asimismo, ayuda en la conducción de esta última a través de las tuberías y durante la fase de descanso, proporciona un masaje a la ubre."
+                    }
+                ],
+                "subtitle": [
+                    {
+                        "id": 1,
+                        "title": "¿Qué mantenimiento debo hacerle a mi bomba de vacío?",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "Una bomba de vacío que no funcione correctamente nos puede costar tiempo y mucho dinero. Por lo que se recomienda realizar actividades de mantenimiento preventivo regular para identificar algún tipo de deterioro o mal funcionamiento que podría afectar severamente la eficiencia del ordeño."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "title": "Haga que un técnico verifique la bomba",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "Cada seis meses, una persona calificada debe verificar la capacidad de la bomba de vacío para detectar desgastes, fugas o paros en el sistema."
+                            }
+                        ],
+                        "subitems": [
+                            {
+                                "id": 1,
+                                "title": "Diariamente",
+                                "texts": [
+                                    {
+                                        "id": 1,
+                                        "text": "Comprobar el nivel de aceite en el depósito de la bomba una vez a la semana Compruebe el nivel de aceite y añada más si está demasiado bajo o cámbielo si está turbio. Debe utilizar siempre el aceite adecuado, el que está recomendado por el fabricante y evite añadirlo en exceso, ya que la bomba puede sufrir daños. NUNCA se debe poner en marcha la máquina de ordeño sin aceite en la bomba."
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "title": "Cada seis meses",
+                                "texts": [
+                                    {
+                                        "id": 1,
+                                        "text": "Realizar la limpieza de la bomba de vacío cada seis meses La limpieza de la bomba, incluyendo el sistema de paletas es importante. Se puede utilizar aceite de limpieza o queroseno."
+                                    },
+                                    {
+                                        "id": 2,
+                                        "text": "Se añaden alrededor de medio litro en el puerto de succión, mientras la bomba está funcionando. Si se requiere una limpieza extensa, se realiza este paso y se deja remojar. Después de limpiar la bomba, se agrega aceite a través del puerto de succión para asegurar una lubricación completa."
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 3,
+                                "title": "Anualmente",
+                                "texts": [
+                                    {
+                                        "id": 1,
+                                        "text": "Reemplace las piezas que estén desgastadas o dañadas. Piezas como los ventiladores y correas deben ser monitoreadas regularmente, si observa desgaste o rotura, deben ser reemplazadas inmediatamente. Si tiene pensado no utilizar la bomba de vacío durante más de un mes, debe limpiar la bomba y añadir aceite nuevo. No olvide accionarla durante unos minutos, al menos una vez a la semana."
+                                    },
+                                    {
+                                        "id": 2,
+                                        "text": "En general, para garantizar un correcto funcionamiento de la bomba de vacío lo más importante es que bimestralmente o anualmente, dependiendo de las características del servicio que usted está prestando, se realice una inspección completa; esta debe incluir un chequeo muy minucioso a todos los distintos componentes de la bomba. Lo más recomendable es que sea un equipo técnico especializado en el área el que realice esta tarea."
+                                    },
+                                    {
+                                        "id": 3,
+                                        "text": "En Industrias BJT contamos con un equipo humano altamente especializado, dispuesto a ofrecerle la mejor asesoría y un servicio técnico de calidad y excelencia, haciendo uso de herramientas especializadas y de última tecnología. Además, contamos con repuestos y soluciones técnicas de avanzada para los problemas con su bomba de vacío o sus ordeños mecánicos en general."
+                                    },
+                                    {
+                                        "id": 4,
+                                        "text": "Si está interesado en nuestros servicios de mantenimiento y reparación de equipos, consulte con nuestro operador en línea o escriba un mensaje directo a nuestro departamento técnico y con gusto le atenderemos."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "type": "tenico"
+            },
+            {
+                "id": 6,
+                "title": "Razas de ganado vacuno utilizadas en Venezuela para la producción láctea",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "paragraph": [
+                    {
+                        "id": 1,
+                        "text": "El sector ganadero en Venezuela constituye una importante fuente de alimentos, tanto en el sector cárnico como en el sector lácteo, contribuyendo de una manera significativa con la Soberanía Alimentaria del país."
+                    },
+                    {
+                        "id": 2,
+                        "text": "La mayor actividad ganadera en Venezuela se desarrolla en los llanos, donde se ha establecido una zona de producción intensiva de carne y leche. En los últimos años, Venezuela ha importado ganado vacuno de Argentina, Brasil y Uruguay En Venezuela se utiliza para la ganadería de leche las siguientes razas: Criollo Limonero, Carora, Mosaico Perijanero, Pardo Suizo, Holstein y Jersey."
+                    }
+                ],
+                "subtitle": [
+                    {
+                        "id": 1,
+                        "title": "Raza Criollo Limonero",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "Raza Criollo Limonero denominada patrimonio nacional desde el año 1.978, La raza bovina Criollo Limonero es uno de los recursos genéticos más importantes de Venezuela, tiene su asentamiento principal en la Estación Local Carrasquero, adscrita al Instituto Nacional de Investigaciones Agrícolas (INIA), ubicado en el municipio Páez del estado Zulia y está orientada hacia la producción de leche principalmente."
+                            },
+                            {
+                                "id": 2,
+                                "text": "Su origen se remonta a la época de la colonia como un producto de los animales traídos por los españoles. Durante ese tiempo ha permanecido en interacción con las condicionestropicales por lo cual ha desarrollado gran rusticidad y adaptación que se combina con un gran potencial lechero, lo que le permite aventajar a otros genotipos, ya que pueden ser utilizados en programas de mejoramiento puros o cruzados, destinados a la producción de leche o en explotaciones de doble propósito."
+                            },
+                            {
+                                "id": 3,
+                                "text": "En Venezuela la región del Criollo Limonero está ubicada al noroeste del estado Zulia, en las riberas de los ríos Socuy, Guasare y Limón, abarca los municipios Mara y Páez principalmente. La zona es una región de bosque seco tropical con temperatura media anual de 27,8 ºC y unos 780 mm de precipitación anual, en donde a través del tiempo, los ganaderos fueron seleccionando un tipo de animal con características lácteas."
+                            }
+                        ],
+                        "image": {
+                            "alt": "",
+                            "src": ""
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "title": "Raza Carora",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "Como su nombre lo indica esta raza es originaria de Carora, Estado Lara, ubicada en una zona ecológica clasificada como Bosque Seco Tropical ( Holdrige) producto del cruce del Criollo Amarillo de Quebrada Arriba de alta capacidad de adaptación al trópico y con buena producción de leche y del Pardo Suizo."
+                            },
+                            {
+                                "id": 2,
+                                "text": "De alta rusticidad, mansedumbre, fortaleza, vigor, buena reproducción, capacidad de soportar el clima y aprovechar los forrajes tropicales. La Asociación de Criadores (ASOCRICA) y el Centro Genético (CIAC); implementan el Programa de Mejoramiento Genético de la Raza Carora (PMG) para consolidarla como una “raza láctea tropical”."
+                            },
+                            {
+                                "id": 3,
+                                "text": " El resultado de la selección natural generó un animal de producciones promedios de 6-7 litros por día con lactancias de 210-240 días de duración. La raza Carora posee una serie de ca racterísticas fenotípicas que lo diferencian e identifican de cualquier otra raza láctea del mundo y que al mismo tiempo revelan su grado de adaptación a los climas tropicales."
+                            }
+                        ],
+                        "image": {
+                            "alt": "",
+                            "src": ""
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "title": "Raza Mosaico Perijanero",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "El ganado Mosaico Perijanero, como su nombre lo indica, es originario del Municipio Perijá del Estado Zulia, es un ganado de doble propósito, adaptado a las rigurosidades climáticas tropicales y a sistemas rústicos de manejo y alimentación. Las condiciones climáticas predominantes en este ecosistema son típicas del “Bosque Seco Tropical”, con una media anual de temperatura de 27°C y precipitaciones que oscilan entre 900 y 1.200 mm."
+                            },
+                            {
+                                "id": 2,
+                                "text": " El Mosaico Perijanero no es reconocido a nivel mundial como raza, por no cumplir con los estándares internacionales para tal reconcomiendo. Cómo se originó En principio de los productores perijaneros explotaban el ganado Criollo, el cual se destaca por su temperamento lechero, alta eficiencia reproductiva y resistencia al medio ambiente tropical. El ganado criollo fue cruzado con ganado europeo (Holstein, Pardo Suizo, Guernsey, Airshyre, etc.) buscando aumentar la productividad de leche."
+                            },
+                            {
+                                "id": 3,
+                                "text": " Presentándose el inconveniente de la falta de adaptación de las razas especializadas a los sistemas rústicos de manejo y alimentación predominantes en la zona. Para solucionar estos problemas, los productores cruzaron los mestizos con razas cebuínas buscando mejorar su adaptación, obteniendo un animal con alto valor para la producción de carne; no obstante, se obtuvo un efecto depresivo sobre la producción de leche. "
+                            },
+                            {
+                                "id": 4,
+                                "text": "El ganado “mosaico perijanero”, ha sido sin lugar a duda la mezcla de razas bovinas que en sus mejores tiempos logró alcanzar el 40% de la producción láctea para todo el país, así como gran parte de los productos cárnicos que se consumían en sus distintas presentaciones, con calidad de exportación y el sello “Hecho en Venezuela”"
+                            }
+                        ],
+                        "image": {
+                            "alt": "",
+                            "src": ""
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "title": "Raza Pardo Suizo",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "El origen de esta raza es la parte oriental de Suiza y es notable por su fortaleza siendo la segunda raza por su rendimiento lechero después de Holstein. En Suiza compite con la Simental en el suministro de leche y carne para el pequeño mercado interno. Como se desarrollaba en forma rústica, su talla no se vio incrementada hasta que se mezcló con ganado alemán de talla grande, aunque se desconocen los niveles de cruzamiento y los cambios del tipo original. "
+                            },
+                            {
+                                "id": 2,
+                                "text": "Su mansedumbre propició su uso de triple propósito en carne, leche y tracción. Los animales adultos son fuertes y de buen peso, las vacas pueden pesar de 600 a 700 kg y los toros de 950 a 1,000 kg, pero en ambos casos hay ejemplares con más peso. En relación a su rendimiento lechero, la raza suiza lo hace muy bien, ya que es la segunda del mundo en este rubro. El promedio de la raza son los correspondientes a los EE. UU, que a los 6 años de edad es de 6,779 kg de leche de alta calidad con 4.5% de grasa y 3.5% de proteína, especial para la producción de quesos y propiciando el origen de los quesos Suizos, siendo la raza quesera por excelencia. "
+                            },
+                            {
+                                "id": 3,
+                                "text": "La raza Pardo Suizo se caracteriza por su talla mediana; la capa es de un sólo color café-gris, encontrándose animales de tonalidades claras. Los cuartos traseros son carnosos. La ubre está bien desarrollada, con buenos pezones. Se llega a ver casos de vacas en producción con más de 15 años de edad. Muy buen porcentaje de preñez. "
+                            },
+                            {
+                                "id": 4,
+                                "text": "Partos fáciles. Pezuñas duras; por esta aptitud hay menos problemas con pisos de cemento, son animales rústicos, no son propensas a la sarna, resisten picaduras de moscas, mosquitos y garrapatas. Se utiliza mucho en zonas tropicales, donde otras razas no resisten el clima y pastan cuando otras razas, por el calor, están a la sombra."
+                            }
+                        ],
+                        "image": {
+                            "alt": "",
+                            "src": ""
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "title": "Raza Holstein",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "Origen de la raza La Raza de ganado Holstein se originó en dos provincias septentrionales de Holanda: Frisia Occidental y País Bajo del Norte (North Holland). Poco se sabe de su más remoto origen, pero no hay duda de que fue Holanda el núcleo del cual se diseminó esta raza que, sin objeciones, es la más formidable láctea de la historia. "
+                            },
+                            {
+                                "id": 2,
+                                "text": "Características La Raza bovina Holstein es la más pesada y productiva de las razas lácteas, presenta dos variantes en cuanto a color de pelaje: el blanco con negro y el blanco con rojo. La variante dominante es en negro, siendo de carácter recesivo la variante en rojo. Dentro de la variante en negro se encuentran animales muy negros con algunas manchas blancas o animales casi blancos con pintas negras, no hay animales enteramente blancos ni enteramente negros. "
+                            },
+                            {
+                                "id": 3,
+                                "text": "Al nacer, los becerros pesan entre 38 y 42 kg; las becerras entre 34 y 38 kg. Los cuernos están siempre presentes, de cuerpo profundo, angulosos, sin tendencia a la gordura o bastedad corporal, amplio. Cuello largo descarnado, bien implantado. Ubre de gran capacidad y buena forma, fuertemente adherida; pezones medianos y colocación en cuadro y muy bien irrigada. Los machos sometidos a engorde están en condición y peso optima a los 11-12 meses pesando entre 272 Kg y 320 Kg. "
+                            },
+                            {
+                                "id": 4,
+                                "text": "Características funcionales del ganado lechero Holstein El promedio de producción de leche en EE.UU a edad adulta, se estima en 11,313 kg por lactación. Al primer parto, la vaquilla de 24 meses debe pesar como mínimo 520 Kg para considerarla con buen desarrollo corporal en dicho momento.Los machos sometidos a engorde están en condición y peso optimo a los 11-12 meses pesando entre 272 Kg y 320Kg."
+                            }
+                        ],
+                        "image": {
+                            "alt": "",
+                            "src": ""
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "title": "Raza Jersey",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "Se originó en las Islas Jersey en el Canal de La Mancha. y fue registrada por primera vez como una raza distinta hacia 1700. Desde 1789, una ley prohibió la importación de ganado a Jersey con la finalidad de mantener la pureza de la raza, aunque la exporta. "
+                            },
+                            {
+                                "id": 2,
+                                "text": "El color es una gradación del amarillo con o sin machas blancas, es la más pequeñas de la razas lácteas. La ubre es desarrollada y bien conformada, los cuernos son cortos con puntas negras Miembros delgados con pesuñas oscuras. Es una vaca de doble propósito."
+                            },
+                            {
+                                "id": 3,
+                                "text": "El ganado Jersey es relativamente pequeño, pesando las vacas entre 360 a 540 kg, pero es capaz de producir más leche por unidad de peso corporal que cualquier otra raza y tiene la eficiencia más alta de conversión de alimento ingerido a leche de todas las razas lácteas; los toros son también pequeños, pesando entre 540 a 820 kg, y son muy agresivos, lo que dificulta su manejo en confinamiento."
+                            },
+                            {
+                                "id": 4,
+                                "text": " La vaca Jersey es la que, con mayor frecuencia se adapta al tipo lechero ideal. Su silueta, su angulosidad y la perfección de sus líneas responden a las características de una eficiente transformadora de alimento en leche. Es la de mayor producción de grasa y sólidos no grasos en la leche, la grasa láctea es de color amarillo."
+                            }
+                        ],
+                        "image": {
+                            "alt": "",
+                            "src": ""
+                        }
+                    }
+                ],
+                "type": "animal"
+            },
+            {
+                "id": 7,
+                "title": "¿Cuál es el período de gestación de una vaca?",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "paragraph": [
+                    {
+                        "id": 1,
+                        "text": "La madurez sexual del ganado vacuno es variable, dependiendo de factores como la raza y el peso del ejemplar en su etapa de madurez. El período de gestación de una vaca es variable, como media se toma de nueve meses, aunque el rango más específico comprende entre 276 y 283 días de gestación. Pero por lo general a partir de los 282 días hay que estar atentos ante cualquier comportamiento inusual en la vaca."
+                    },
+                    {
+                        "id": 2,
+                        "text": "También puede influir el tamaño del ternero que se ha gestado durante el embarazo. En numerosas razas de vacas lecheras puede alcanzar la pubertad al llegar al año de vida, mientras que otras razas deben esperar a los 24 meses para poder criar. En cuanto al peso del ejemplar este debe aproximarse a la mitad del peso que alcanzan en su adultez, para que sea capaz realizar la reproducción."
+                    }
+                ],
+                "type": "animal"
+            },
+            {
+                "id": 8,
+                "title": "¿Desde qué edad comienza a preñar un toro?",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "paragraph": [
+                    {
+                        "id": 1,
+                        "text": "La fertilidad de los toros se inicia cuando pueden producir esperma viable, esto ocurre aproximadamente a los 12 meses de edad, aunque puede variar en toros individuales varios meses antes o después dependiendo principalmente del tamaño, el peso potencial, la nutrición y el estado de salud. A partir de los 18 meses se los puede emplear en vacas pequeñas, ya que por su edad tienen dificultades para el servicio debido al tamaño."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Un patrón habitualmente adoptado es emplear toros de un año que tengan una circunferencia escrotal mínima de 32 cm, pero la mayoría de los toros han alcanzado la fertilidad cuando la circunferencia escrotal mide aproximadamente 26 cm. "
+                    },
+                    {
+                        "id": 3,
+                        "text": "Algunos ejemplares logran permanecer en servicio hasta los diez o doce años, pero esto no es la regla, depende de los cuidados que ha recibido, la dieta aplicada, la cantidad de vientres servidos, el carácter del animal y lesiones adquiridas durante el trabajo, lo que se refleja en el examen de aptitud reproductiva anual."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Por lo general permanecen en el rebaño de 4 a 5 años, ya que la fertilidad tiende a disminuir después de los 6 años. Si el semental es de buena calidad y habiendo sido declarado apto en el examen de aptitud reproductiva, no debe ser reemplazado hasta los 6 años de edad para no desperdiciar su genética mejoradora."
+                    },
+                    {
+                        "id": 5,
+                        "text": "El único motivo para que un animal permanezca en el rebaño es que sus pruebas de producción indiquen que es un animal destacado, que amerita siga dejando descendencia, ya que la nueva generación deberá ser genéticamente superior a la anterior."
+                    },
+                    {
+                        "id": 6,
+                        "text": "Independientemente de la edad de las hembras, cuando se emplean toros jóvenes se logra una mayor fertilidad del rebaño, por lo tanto, es conveniente en una finca evitar emplear toros de más de 6 años de edad."
+                    }
+                ],
+                "type": "animal"
+            },
+            {
+                "id": 9,
+                "title": "Mastitis bovina ¿Qué es y cómo evitarla?",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "paragraph": [
+                    {
+                        "id": 1,
+                        "text": "La Mastitis bovina es una enfermedad que es considerada como el principal problema de salud en las granjas de producción láctea, puede conllevar a una lamentable pérdida económica debido a la disminución en la calidad y cantidad de la leche."
+                    },
+                    {
+                        "id": 2,
+                        "text": "La mastitis bovina es una patología muy común en el ganado productor de leche(vacas y búfalas) que afecta su rendimiento, no solo por lo que significa la disminución en el volumen de litros producidos por la vaca afectada, sino por los altos costos que representa el tratamiento veterinario de este padecimiento. "
+                    },
+                    {
+                        "id": 3,
+                        "text": "Es una enfermedad que ataca la ubre produciendo su inflamación, la mayoría de las veces como consecuencia de infecciones causadas por distintos microorganismos, especialmente bacterias como el Streptococcus."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Esta inflamación se desarrolla debido a la existencia de leucocitos los cuales son transportados hacia la ubre por la presencia de bacterias en el canal del pezón."
+                    },
+                    {
+                        "id": 5,
+                        "text": "Una vez infiltradas en el canal, las bacterias se multiplican en número y producen toxinas que causan la destrucción del tejido mamario, cambiando la composición química de la leche, disminuyendo de esta manera el potencial productivo de la ubre."
+                    },
+                    {
+                        "id": 6,
+                        "text": "La mastitis también puede ser causada por hongos o micoplasmas que se encuentran en el ambiente más cercano a la vaca. Las fuentes principales de contaminación son, la ubre infectada y el entorno, como las manos de ordeñadores, pezoneras, paños de lavado y secado."
+                    }
+                ],
+                "subtitle": [
+                    {
+                        "id": 1,
+                        "title": "Tipos de Mastitis",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "El grado de inflamación de la ubre es cambiante, dependiendo de la gravedad con que la glándula mamaria reacciona frente a la fuente de su irritación. De acuerdo a los síntomas, existe una clasificación para la mastitis, ésta puede ser clínica, subclínica y aguda."
+                            },
+                            {
+                                "id": 2,
+                                "text": "En la mastitis clínica se observa la inflamación a nivel de la glándula mamaria produciendo cambios en las características organolépticas, físicas, químicas y microbiológicas de la leche, siendo los síntomas: anormalidades en la secreción, tamaño, consistencia y temperatura de las glándulas mamarias; la mastitis subclínica no presenta síntomas inflamatorios, debe detectarse a través de pruebas indirectas basadas en el recuento de células somáticas. "
+                            },
+                            {
+                                "id": 3,
+                                "text": "la mastitis aguda es la que pone en riesgo la vida del animal. Es importante considerar que se trata de una enfermedad multicausal en la que intervienen los tres elementos que conforman el triángulo epidemiológico de la mastitis, los cuales vienen a ser: las características de la ubre, las condiciones del ambiente que rodean el ganado y la variedad de patógenos que producen la enfermedad."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "title": "Medidas para evitar la Mastitis bovina",
+                        "texts": [
+                            {
+                                "id": 1,
+                                "text": "Es importante tomar en consideración las medidas preventivas que eviten la aparición de la mastitis en el ganado, una de ellas es la garantía del control higiénico del ambiente que rodea la ubre y en términos generales, del hato en su totalidad, que conduzca además hacia un sistema que asegure la calidad del producto y del bienestar animal. "
+                            },
+                            {
+                                "id": 2,
+                                "text": "Hacer énfasis en la ejecución de una buena práctica de ordeño es primordial, siempre buscando mantener la salud del pezón en equilibrio armónico con la velocidad de ordeño. Otras medidas preventivas a considerar son las siguientes: desinfectar los pezones antes y después del ordeño, mantener en buen estado los equipos de ordeño, aplicar tratamiento de secado, garantizar una buena ventilación, proveer a las vacas de una excelente alimentación y agua, mantener a las vacas luego del ordeño un tiempo de pie. "
+                            },
+                            {
+                                "id": 3,
+                                "text": "El ordeño, más allá de ser el vínculo que materializa la relación ancestral entre la vaca y la humanidad, se ha convertido en nuestros tiempos en la acción que inicia todo un proceso de transformación económica, en virtud del apoyo que por fortuna brinda los avances en el área de tecnología agropecuaria y que impulsan el desarrollo de esta industria básica tan fundamental para el aparato productivo de un país."
+                            },
+                            {
+                                "id": 4,
+                                "text": "Sin duda alguna, la mastitis bovina plantea un reto que el productor tiene que asumir con mucha responsabilidad y planificación en cuanto a las condiciones de higiene en el acto del ordeño, independientemente si éste es artesanal, manual o industrial mecanizado."
+                            },
+                            {
+                                "id": 5,
+                                "text": "Para ello, el productor debe considerar como aspectos fundamentales cuáles son las condiciones ambientales más apropiadas que integran el espacio del hábitat de la vaca y las tecnologías de ordeño más ajustadas por sus características de manufactura a los requerimientos del medio, dicha tecnología tal como la necesita es fabricada por INDUSTRIAS BJT."
+                            },
+                            {
+                                "id": 6,
+                                "text": " Empresa venezolana dedicada al diseño y elaboración de ordeños mecánicos de la mejor calidad con los que se asegura el cumplimiento de los estándares sanitarios tan solicitados para proteger el ganado y su producción. Le invitamos a visitar nuestro catálogo de productos. INDUSTRIAS BJT, siempre respaldando el sector agropecuario."
+                            }
+                        ]
+                    }
+                ],
+                "type": "animal"
             }
-        ],
-        "type": "animal"
+        ]
     }
 ]
